@@ -1,0 +1,1 @@
+# TeradataCovalent-Or-Angular-Material
